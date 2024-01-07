@@ -4,7 +4,7 @@ We are currently using the V1 version. We Will Improve Our Tool With New Feature
 
 | Version | Supported |
 | ------- | ------------------ |
-| V1.x | :white_check_mark: |
+| V1 | :white_check_mark: |
 ## Reporting a Vulnerability
 
 There are currently no bugs, bugs, etc. You can report the errors & deficiencies & requests you find through the tool to me via Telegram, Discord.
