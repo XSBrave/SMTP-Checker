@@ -1,6 +1,6 @@
 # SMTP-Checker - XFLOUD SHELL 
-* Fastest cPanel Checker Tool
-* Free cPanel Checker
+* Fastest SMTP Checker Tool
+* Free SMTP Checker
 * Open Source - Not Encrypted
 
 > [!NOTE]
