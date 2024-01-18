@@ -15,8 +15,10 @@
 
 # How Can I Use It? # 
 
-``` pip install colorama ```
+``` python smtpchecker.py ```
 
-``` pip install ```
+``` Enter your e-mail address. ```
 
-``` 
+``` Enter your SMTP List.``` 
+
+``` Enter your Thread "200" ```
