@@ -22,3 +22,5 @@
 ``` Enter your SMTP List.``` 
 
 ``` Enter your Thread "200" ```
+
+![image](https://github.com/XSBrave/SMTP-Checker/assets/106927628/155bbe57-d343-4343-b7a8-5106ab4dec16)
